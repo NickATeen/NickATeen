@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NickATeen
 - 👀 I’m interested in learnin stuff idk
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning men
 - 💞️ I’m looking to collaborate on replit
 - 📫 How to reach me 
 
